@@ -1,16 +1,16 @@
 # pokeemerald-expansion
 
-### Important: DO NOT use GitHub's "Download Zip" option. Using this option will not download the commit history required to update your expansion version or merge other feature branches. Instead, please read [this guide](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/wiki/The-Basics-of-GitHub) to learn how to fork the repository and clone locally from there.
-
 ## What is pokeemerald-expansion?
 
-pokeemerald-expansion is a decomp hack base project based off pret's [pokeemerald](https://github.com/pret/pokeemerald) decompilation project. It's recommended that any new projects that plan on using it, to clone this repository instead of pret's vanilla repository, as we regurlarly incorporate pret's documentation changes. This is ***NOT*** a standalone romhack, and as such, most features will be unavailable and/or unbalanced if played as is.
+pokeemerald-expansion is a decomp hack base project based off pret's [pokeemerald](https://github.com/pret/pokeemerald) decompilation project. If you are for some reason looking for the real thing, you're in the wrong place, this is a fork for a yet unnamed project. Sorry!
 
 If you use pokeemerald-expansion in your hack, please add RHH (Rom Hacking Hideout) to your credits list. Optionally, you can list the version used, so it can help players know what features to expect.
 You can phrase it as the following:
 ```
 Based off RHH's pokeemerald-expansion v1.8.5 https://github.com/rh-hideout/pokeemerald-expansion/
 ```
+
+^I'm gonna do that!
 
 ## What features are included?
 - ***IMPORTANT*❗❗ Read through these to learn what features you can toggle**:
@@ -38,7 +38,7 @@ Based off RHH's pokeemerald-expansion v1.8.5 https://github.com/rh-hideout/pokee
     - Initial battle parameters
         - Queueing stat boosts (aka, Totem Boosts)
         - Setting Terrains.
-    - Mid-turn speed recalculation.
+    - Mid-turn speed recalculation. (GOD IS REAL)
     - Quick Poké Ball selection in Wild Battles
         - Hold `R` to change selection with the D-Pad.
         - Press `R` to use last selected Poké Ball.
@@ -196,3 +196,7 @@ The project has now gotten larger and DizzyEgg is now maintaining the project as
 A Discord-based ROM hacking community that has many members who hack using the disassembly and decompilation projects for Pokémon. Quite a few contributors to the original feature branches by DizzyEgg were members of ROM Hacking Hideout. You can call it RHH for short!
 
 [Click here to join the RHH Discord Server!](https://discord.gg/6CzjAG6GZk)
+
+## Why are you reading this?
+
+Cmon go to the link in the previous bit. It will literally get you to the thing you actually want.
